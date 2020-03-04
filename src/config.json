@@ -1,0 +1,16 @@
+{
+  "token": "token bot",
+	"reacts": [
+		[	
+			"chat id.msg id",
+			{
+				"limit": 1,
+				"reactions": [
+					["emoji id", "role id"]
+		
+        
+        ]
+      }
+      ]
+    ]
+    }
